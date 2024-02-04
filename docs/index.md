@@ -7,4 +7,4 @@ share: true
   
 Esta es la página de conocimiento del departamento de Ingeniería del Software e Inteligencia Artificial.  
   
-![placeholder.png](./placeholder.png)  
+![placeholder.png](../assets/img/placeholder.png)  
