@@ -14,7 +14,7 @@ En <https://informatica.ucm.es/informacion-docente> los estudiantes pueden ver t
 - Buscar el Grado  
 - Pulsar en _Fichas docentes_  
   
-# Calendario académico y Horarios  
+# Calendario Académico y Horarios  
   
 - El calendario académico (con las fiestas que hay que tener en cuenta para las clases) está aquí: <https://informatica.ucm.es/calendario-academico>  
 - Los horarios de todas las clases están aquí: <https://informatica.ucm.es/horarios-por-curso-y-grupo>  
